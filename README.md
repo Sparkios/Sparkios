@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sparkios](https://github.com/Sparkios)
 
-- 💬 Ask me about **Dl and Ml questions**
+- 💬 Ask me about **Any Ai questions**
 
 - 📫 How to reach me **onralpce00@hotmail.com**
 
