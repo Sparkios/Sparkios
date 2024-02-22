@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LSTM Project**
 
-- 🌱 I’m currently learning **LSTM ,NLP**
+- 🌱 I’m currently learning **LSTM ,NLP and Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sparkios](https://github.com/Sparkios)
 
